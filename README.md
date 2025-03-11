@@ -10,7 +10,7 @@ We hope this repository can help researchers and practitioners to get a better u
 ## Table of Contents📇
 - [Requirements-Specification-Quality-Analysis](#Requirements-Specification-Quality-Analysis)
   - [Overview](#overview)
-  - [Related Survey](#Related Surveys)
+  - [Related Survey](#relatedsurveys)
     
   
 
