@@ -10,7 +10,10 @@ We hope this repository can help researchers and practitioners to get a better u
 ## Table of Contents📇
 - [Requirements-Specification-Quality-Analysis](#Requirements-Specification-Quality-Analysis)
   - [Overview](#overview)
-  - [Related Survey](#relatedsurveys)
+  - [Related Survey](#related-surverys)
+  - [NLP Ducuments](#NLP-documents)
+  - [Formal Documents](#formal-documents)
+  - [Other Documents](#other-documents)
     
   
 
@@ -25,8 +28,8 @@ We hope this repository can help researchers and practitioners to get a better u
 ## Related Surveys
 
 
-## NLP Document
+## NLP Documents
 
-## Formal Document
+## Formal Documents
 
-## Other Document
+## Other Documents
